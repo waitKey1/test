@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 启动项目
 
 1. npm install
@@ -25,3 +26,7 @@ axios.patch(`/edit/${id}`, {
   place: '籍贯',
 })
 ```
+=======
+# test
+test
+>>>>>>> 57fc5e86f615e2e243fbdf58b29cb39368207bec

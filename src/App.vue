@@ -30,6 +30,7 @@ import Edit from './components/Edit.vue'
     </el-table>
   </div>
   <Edit />
+  
 </template>
 
 <style scoped>
